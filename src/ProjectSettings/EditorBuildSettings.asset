@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_1_Cylinder.unity
+    guid: 3b67045179c247741bd7535aeefef085
+  - enabled: 1
+    path: Assets/Scenes/Scene_2_Quad 1.unity
+    guid: bb68b4ecbe922554191408d3a87c97ac
+  - enabled: 1
+    path: Assets/Scenes/Scene_3_Mask 1.unity
+    guid: cc4f63a981233b04aaacb99a139bf01f
+  - enabled: 1
+    path: Assets/Scenes/Scene_4_MyBest.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  m_configObjects: {}

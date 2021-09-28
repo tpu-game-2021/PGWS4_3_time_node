@@ -1,0 +1,14 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class RotateBehaviourScript : MonoBehaviour
+{
+    void Update()
+    {
+        //            360‚Åˆêü  1•b‚Å1‘‚¦‚é  ˆêü‚Ì•b”
+        float rotate = 360.0f * Time.deltaTime / 10.0f;
+
+        this.transform.Rotate(0, rotate, 0);
+    }
+}
