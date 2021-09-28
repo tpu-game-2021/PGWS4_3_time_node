@@ -26,6 +26,6 @@
   - 結果画像3（三番目の画像）と同じシーンをScene_3_Maskに実現してください
   - 自分なりにかっこいいシーンをScene_4_MyBestに作成してください
 - このテキストファイルに変更点を記載してください
-- Scene_4_MyBestの結果をUnity RecorderでAnimation GIFをとして保存し、result.gifをという名前で√ディレクトリの物と差し替えてください
+- Scene_4_MyBestの結果をUnity RecorderでAnimation GIFをとして保存し、result.gifをという名前にして本ディレクトリの物と差し替えてください（サイズが大きくて上げられない場合は、解像度を小さくするなどして下さい）
 - node_graph.pngを自分のシェーダグラフの一番頑張ったノードと差し替えてください
 - プルリクエストを出して提出してください
