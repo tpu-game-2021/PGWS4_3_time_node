@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 2138677392}
-  m_IndirectSpecularColor: {r: 0.2850267, g: 0.3713933, b: 0.49601, a: 1}
+  m_IndirectSpecularColor: {r: 0.28502655, g: 0.37139302, b: 0.4960094, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -225,7 +225,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f9f588654e2d397458dfd416368147f6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 5dd9982b89ba1cc41a9d7c57fe1d069a, type: 2}
+      objectReference: {fileID: 2100000, guid: c9784661a22531d43b114e89c8c92354, type: 2}
     - target: {fileID: 919132149155446097, guid: f9f588654e2d397458dfd416368147f6, type: 3}
       propertyPath: m_Name
       value: cylinder RotY
@@ -557,7 +557,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f9f588654e2d397458dfd416368147f6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: c1fb9666d69f10142960dd2e15c188ab, type: 2}
+      objectReference: {fileID: 2100000, guid: 7063bc81ac2fea54499c57ea7fd4eaf7, type: 2}
     - target: {fileID: 919132149155446097, guid: f9f588654e2d397458dfd416368147f6, type: 3}
       propertyPath: m_Name
       value: cylinder Script
