@@ -12,9 +12,9 @@
 ![シェーダグラフ](node_graph.png)
 
 # 自分なりに変更した点
--
--
--
+-My Best Shader Graphを追加しました
+-My Best Shader Graphでは”Hello World”をSin波で歪ませてます
+-”Hello　World”は繰り返して消えたり現れたりします
 
 # 進め方
 
