@@ -1,19 +1,19 @@
 # Timeノードを使ったスクロール
 主にシェーダを使ってループアニメーションを実装します。
 
-![結果画像1](result1.gif)
+![結果画像1](myScene 1.gif)
 
-![結果画像2](result2.gif)
+![結果画像2](myScene 2.gif)
 
-![結果画像3](result3.gif)
+![結果画像3](myScene 3.gif)
 
-![結果画像](result.gif)
+![結果画像](myScene.gif)
 
 ![シェーダグラフ](node_graph.png)
 
 # 自分なりに変更した点
--
--
+- 1 ~ 3 は元のGIFのように作りました
+- 4 は Fresnelノードを利用して作りました
 -
 
 # 進め方
