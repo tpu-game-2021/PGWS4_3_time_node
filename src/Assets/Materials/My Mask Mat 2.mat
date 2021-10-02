@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mask Mat
-  m_Shader: {fileID: -6465566751694194690, guid: 920fe7535a2f48e40beddcc710d34095, type: 3}
+  m_Name: My Mask Mat 2
+  m_Shader: {fileID: -6465566751694194690, guid: fb3c4b36cf7c13d4e986aeecb76ef593, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -33,7 +33,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Gradation_Texture:
-        m_Texture: {fileID: 2800000, guid: 7bb389abe34ea494ba279be85180ee29, type: 3}
+        m_Texture: {fileID: 2800000, guid: 15e4dfda3ef732f4784377cd03cb643b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_f4d4f6b1460a4e338806afdb4cf582a8_Texture_1:
@@ -54,7 +54,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Activate: 0
     - Frequency: 1
     m_Colors:
     - Wave_Number: {r: 0.05, g: 0, b: 0.2, a: 0}
+    - _Color: {r: 0, g: 0.26393962, b: 1, a: 0}
   m_BuildTextureStacks: []
