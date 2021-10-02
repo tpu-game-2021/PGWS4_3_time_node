@@ -1,11 +1,11 @@
 # Timeノードを使ったスクロール
 主にシェーダを使ってループアニメーションを実装します。
 
-![結果画像1](myScene 1.gif)
+![結果画像1](myScene1.gif)
 
-![結果画像2](myScene 2.gif)
+![結果画像2](myScene2.gif)
 
-![結果画像3](myScene 3.gif)
+![結果画像3](myScene3.gif)
 
 ![結果画像](myScene.gif)
 
