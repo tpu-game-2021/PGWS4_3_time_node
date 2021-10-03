@@ -32,6 +32,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - GradationTexture2D:
+        m_Texture: {fileID: 2800000, guid: 7bb389abe34ea494ba279be85180ee29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Gradation_Texture:
         m_Texture: {fileID: 2800000, guid: 7bb389abe34ea494ba279be85180ee29, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -77,6 +81,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_76b181bf956a47eaaa4d67aef3d7236a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9c124ab2efcc2c8498d79bbdcee8bb94, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ddb2e77aaba9473abeb1b5b1057c5df5_Texture_1:
         m_Texture: {fileID: 2800000, guid: 9c124ab2efcc2c8498d79bbdcee8bb94, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -126,6 +134,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - WaveNumber: {r: 0.05, g: 0, b: 0.2, a: 0}
     - Wave_Number: {r: 0.5, g: 2, b: 2, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
