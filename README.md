@@ -9,7 +9,7 @@
 
 ![結果画像](result.gif)
 
-![シェーダグラフ](node_graph.png)
+![シェーダグラフ](My_node_graph2.png)
 
 # 自分なりに変更した点
 -
