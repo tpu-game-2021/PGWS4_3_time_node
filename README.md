@@ -7,7 +7,7 @@
 
 ![結果画像3](result3.gif)
 
-![結果画像](result.mp4)
+![結果画像](result.gif)
 
 ![シェーダグラフ](node_graph.png)
 
